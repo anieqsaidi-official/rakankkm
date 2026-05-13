@@ -3,7 +3,7 @@ title = "Saasify"
 defaultContentLanguage = "en"
 
 # Theme Config
-theme = "../.."
+theme = "hugo-saasify-theme"
 
 # Enable emoji support
 enableEmoji = true
